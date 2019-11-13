@@ -1,0 +1,100 @@
+[
+    {
+      "id": 1,
+      "image": "../../public/images/323px-Symmetra-portrait.png"
+    },
+    {
+      "id": 2,
+      "image": "../../public/images/324px-Baptiste-portrait.png"
+    },
+    {
+      "id": 3,
+      "image": "../../public/images/325px-Moira.png" 
+    },
+    {
+      "id": 4,
+      "image": "../../public/images/339px-Tracer-portrait.png"
+    },
+    {
+      "id": 5,
+      "image": "../../public/images/377px-Lucio-portrait/png"
+    },
+    {
+      "id": 6,
+      "image": "../../public/images/393px-Mei-portrait.png"
+    },
+    {
+      "id": 7,
+      "image": "../../public/images/444px-Widowmaker-portrait.png"
+    },
+    {
+      "id": 8,
+      "image": "../../public/images/447px-Soldier76-portrait.png"
+    },
+    {
+      "id": 9,
+      "image": "../../public/images/505px-Doomfist_Artwork.png"
+    },
+    {
+      "id": 10,
+      "image": "../../public/images/510px-Brigitte_Concept.png"
+    },
+    {
+      "id": 11,
+      "image": "../../public/images/528px-Mccree-portrait.png"
+    },
+    {
+      "id": 12,
+      "image": "../../public/images/535px-Pharah-portrait.png"
+    },
+
+    {
+      "id": 13,
+      "image": "../../public/images/539px-Zenyatta-portrait.png"
+    },
+    {
+      "id": 14,
+      "image": "../../public/images/545px-Reaper-portrait.png"
+    },
+    {
+      "id": 15,
+      "image": "../../public/images/644px-Genji-portrait.png"
+    },
+    {
+      "id": 16,
+      "image": "../../public/images/660px-Ashe-portrait/png"
+    },
+    {
+      "id": 17,
+      "image": "../../public/images/665px-Bastion-portrait.png"
+    },
+    {
+      "id": 18,
+      "image": "../../public/images/700px-Mercy-portrait.png"
+    },
+    {
+      "id": 19,
+      "image": "../../public/images/Reinhardt-portrait.png"
+    },
+    {
+      "id": 20,
+      "image": "../../public/images/Sombra-portrait.png"
+    },
+    {
+      "id": 21,
+      "image": "../../public/images/700px-Winston-portrait.png"
+    },
+    {
+      "id": 22,
+      "image": "../../public/images/Wrecking_Ball.png"
+    },
+    {
+      "id": 23,
+      "image": "../../public/images/700px-Zarya-portrait.png"
+    },
+    {
+      "id": 24,
+      "image": "../../public/images/DvaBot.png"
+    }
+  ]
+  
